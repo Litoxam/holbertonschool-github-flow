@@ -1,7 +1,7 @@
 # Collaboration Guidelines
 
 
-Collaboration requires adaptability, trust, and continuous alignment among team members.
+Collaboration requires clear communication and well-defined responsibilities.
 
 This documentation project started as a simple collection of notes about collaborative workflows. Over time, it evolved into a controlled environment for practicing real version control techniques.
 
